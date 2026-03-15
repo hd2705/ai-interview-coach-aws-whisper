@@ -2,7 +2,9 @@
 ### 🎙️ AWS Bedrock + OpenAI Whisper + AWS Polly
 
 An intelligent, voice-enabled interview preparation platform that provides real-time conversational practice and structured feedback. This system uses a hybrid AI approach, combining cloud-based LLMs for intelligence with local models for high-accuracy speech processing.
-
+## 📺 Project Demo & Presentation
+[![AI Interview Coach Demo](https://img.youtube.com/vi/HCpUmG_PNps/0.jpg)](https://www.youtube.com/watch?v=HCpUmG_PNps) 
+*Click the image above to watch the full project walkthrough, featuring live voice-to-voice interaction and the technical presentation.*
 ## 🚀 Key Features
 * **Voice-to-Voice Interaction:** Practice interviews using natural speech, powered by OpenAI Whisper (STT) and AWS Polly (TTS).
 * **Intelligent Feedback:** Real-time analysis of answers using **AWS Bedrock (Claude 3.5 Sonnet)** to provide scores on clarity, relevance, and technical depth.
